@@ -1,0 +1,138 @@
+{
+  "packages": [
+    {
+      "name": "IOT - SAMD21",
+      "maintainer": "FA",
+      "websiteURL": "https://github.com/FedericoAndrades/LB-IOT",
+      "email": "federico.andrades@gmail.com",
+      "help": {
+        "online": "https://github.com/FedericoAndrades/LB-IOT"
+      },
+      "platforms": [
+        {
+          "name": "IOT Boards SAMD21",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/SAMD21-0.0.1.zip",
+          "archiveFileName": "SAMD21-0.0.1.zip",
+          "checksum": "SHA-256:42e2ec47c93dc40d7d983194a3fc413cd11d45b8e4411c2d5d981fb224fe7c59",
+          "size": "1",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {"name": "IOT in Motion - LB I vs.2"},
+            {"name": "IOT in Motion - LB I vs.3"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        },
+        {
+          "name": "IOT Boards SAMD21",
+          "architecture": "samd",
+          "version": "0.0.2",
+          "category": "Contributed",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/SAMD21-0.0.2.zip",
+          "archiveFileName": "SAMD21-0.0.2.zip",
+          "checksum": "SHA-256:53192da836288f9713dde0e7fef565d976851534b1812d2156c1ac28c6e32f40",
+          "size": "1",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {"name": "IOT in Motion - LB I vs.2"},
+            {"name": "IOT in Motion - LB I vs.3"},
+            {"name": "IOT in Motion - LB II vs.3.1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        },
+        {
+          "name": "IOT Boards SAMD21",
+          "architecture": "samd",
+          "version": "0.0.3",
+          "category": "Contributed",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/SAMD21-0.0.2.zip",
+          "archiveFileName": "SAMD21-0.0.2.zip",
+          "checksum": "SHA-256:53192da836288f9713dde0e7fef565d976851534b1812d2156c1ac28c6e32f40",
+          "size": "1",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {"name": "IOT in Motion - LB I vs.2"},
+            {"name": "IOT in Motion - LB I vs.3"},
+            {"name": "IOT in Motion - LB II vs.3.1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
