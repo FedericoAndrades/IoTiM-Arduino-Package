@@ -131,11 +131,11 @@
         {
           "name": "IOT Boards SAMD21",
           "architecture": "samd",
-          "version": "0.0.4",
+          "version": "0.0.5",
           "category": "Contributed",
-          "url": "https://github.com/FedericoAndrades/IoTiM-Arduino-Package/archive/refs/tags/IoTiM-Arduino-0.0.4.zip",
-          "archiveFileName": "IoTiM-Arduino-0.0.4.zip",
-          "checksum": "SHA-256:9e0e475ee54b378922a9275b5eef5b9d851efd05ce9103d4447908a1b73cd3e1",
+          "url": "https://github.com/FedericoAndrades/IoTiM-Arduino-Package/archive/refs/tags/IoTiM-Arduino-0.0.5.zip",
+          "archiveFileName": "IoTiM-Arduino-0.0.5.zip",
+          "checksum": "SHA-256:c49b1ee351d1af1a6162643486f71584f94963f4e7781e1da5f81f26cce12d76",
           "size": "1",
           "help": {
             "online": ""
