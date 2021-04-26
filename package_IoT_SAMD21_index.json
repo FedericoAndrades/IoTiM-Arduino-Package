@@ -3,10 +3,10 @@
     {
       "name": "IOT - SAMD21",
       "maintainer": "FA",
-      "websiteURL": "https://github.com/FedericoAndrades/LB-IOT",
+      "websiteURL": "https://federicoandrades.github.io/IoTiM-Arduino-Package/",
       "email": "federico.andrades@gmail.com",
       "help": {
-        "online": "https://github.com/FedericoAndrades/LB-IOT"
+        "online": "https://federicoandrades.github.io/IoTiM-Arduino-Package/"
       },
       "platforms": [
         {
@@ -96,6 +96,46 @@
           "url": "https://github.com/FedericoAndrades/IoTiM-Arduino-Package/archive/refs/tags/IoTiM-Arduino-0.0.3.zip",
           "archiveFileName": "IoTiM-Arduino-0.0.3.zip",
           "checksum": "SHA-256:de55d6cb136c34f4315aaad69c3e62a73e4d8755291abda77ab0779da5d6f5ca",
+          "size": "1",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {"name": "IOT in Motion - LB I vs.2"},
+            {"name": "IOT in Motion - LB I vs.3"},
+            {"name": "IOT in Motion - LB II vs.3.1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        },
+        {
+          "name": "IOT Boards SAMD21",
+          "architecture": "samd",
+          "version": "0.0.4",
+          "category": "Contributed",
+          "url": "https://github.com/FedericoAndrades/IoTiM-Arduino-Package/archive/refs/tags/IoTiM-Arduino-0.0.4.zip",
+          "archiveFileName": "IoTiM-Arduino-0.0.4.zip",
+          "checksum": "SHA-256:9e0e475ee54b378922a9275b5eef5b9d851efd05ce9103d4447908a1b73cd3e1",
           "size": "1",
           "help": {
             "online": ""
