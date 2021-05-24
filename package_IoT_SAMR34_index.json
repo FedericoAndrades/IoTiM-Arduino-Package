@@ -12,11 +12,11 @@
         {
           "name": "IOT Boards SAMR34",
           "architecture": "samd",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/package/SAMR34-0.0.1.zip",
-          "archiveFileName": "SAMR34-0.0.1.zip",
-          "checksum": "SHA-256:651115694714F8660157594434C843B7158329022ABDA05A8307C1721035FEA8",
+          "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/package/SAMR34-0.0.2.zip",
+          "archiveFileName": "SAMR34-0.0.2.zip",
+          "checksum": "SHA-256:25B230502AA27F003F399AF31A235F5BCB4B2E391F011AE76B12EA07D463AB3E",
           "help": {
             "online": ""
           },
