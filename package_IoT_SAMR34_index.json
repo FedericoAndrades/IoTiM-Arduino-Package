@@ -54,6 +54,40 @@
       ],
       "tools": 
       [
+        {
+          "name": "CMSIS-Atmel",
+          "version": "1.0.0-iot-1",
+          "systems": [
+          {
+            "host": "i686-mingw32",
+            "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/tools/CMSIS-Atmel-1.0.0-iot.zip",
+            "archiveFileName": "CMSIS-Atmel-1.0.0-iot.zip",
+            "checksum": "SHA-256:22814C652A3983F2DDA4B5777D4353222374DBA6D85713C985C15FC8393E294E",
+            "size": "2948233"
+          },
+          {
+            "host": "x86_64-pc-linux-gnu",
+            "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/tools/CMSIS-Atmel-1.0.0-iot.zip",
+            "archiveFileName": "CMSIS-Atmel-1.0.0-iot.zip",
+            "checksum": "SHA-256:22814C652A3983F2DDA4B5777D4353222374DBA6D85713C985C15FC8393E294E",
+            "size": "2948233"
+          },
+          {
+            "host": "i686-pc-linux-gnu",
+            "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/tools/CMSIS-Atmel-1.0.0-iot.zip",
+            "archiveFileName": "CMSIS-Atmel-1.0.0-iot.zip",
+            "checksum": "SHA-256:22814C652A3983F2DDA4B5777D4353222374DBA6D85713C985C15FC8393E294E",
+            "size": "2948233"
+          },
+          {
+            "host": "x86_64-apple-darwin",
+            "url": "https://FedericoAndrades.github.io/IoTiM-Arduino-Package/tools/CMSIS-Atmel-1.0.0-iot.zip",
+            "archiveFileName": "CMSIS-Atmel-1.0.0-iot.zip",
+            "checksum": "SHA-256:22814C652A3983F2DDA4B5777D4353222374DBA6D85713C985C15FC8393E294E",
+            "size": "2948233"
+          }
+          ]
+        }
       ]
     }
   ]
