@@ -56,7 +56,7 @@
       [
         {
           "name": "CMSIS-Atmel",
-          "version": "1.0.0-iot-1",
+          "version": "1.0.0-IOT - SAMR34-1",
           "systems": [
           {
             "host": "i686-mingw32",
